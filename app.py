@@ -18,8 +18,8 @@ name1 = 'Maryland'
 name2 = 'Melbourne, Australia'
 name3 = 'Antarctica'
 tabtitle = 'Temperatures'
-sourceurl = 'https://www.baseball-reference.com'
-githublink = 'https://github.com/austinlasseter/dash-linechart-example'
+sourceurl = 'https://www.timeanddate.com/weather/antarctica/south-pole/historic'
+githublink = 'https://github.com/ihdorfman/dash-linechart-example'
 
 ########### Set up the chart
 
