@@ -5,17 +5,17 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading = "Best Guess at Temperature Recently"
+myheading = "Recent Temps From Various Places Last Seven Days"
 mytitle = "Recent Temperature Highs (Fahrenheit)"
 x_values = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
-y1_values = [90, 88, 92, 96, 94, 94, 89]
-y2_values = [32, 29, 24, 22, 24, 20, 19]
-y3_values = [-20, -15, -19, -32, -26, -23, -35]
+y1_values = [90, 84, 88, 84, 90, 91, 95]
+y2_values = [54, 55, 57, 61, 61, 59, 63]
+y3_values = [-72, -62, -69, -90, -90, -96, -78]
 color1 = '#fc9403'
 color2 = '#0307fc'
 color3 = '#9003fc'
 name1 = 'Maryland'
-name2 = 'Australia'
+name2 = 'Melbourne, Australia'
 name3 = 'Antarctica'
 tabtitle = 'Temperatures'
 sourceurl = 'https://www.baseball-reference.com'
